@@ -54,23 +54,36 @@
 
 <br />
 
-## Worked Repositories
+## Repositories
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/hj-devlog/oz_16_react_mini">
-        <strong>oz_16_react_mini</strong>
+    <td width="33%">
+      <sub>Team Project</sub>
+      <br />
+      <a href="https://github.com/Oz-union-16-Team-1/oz_union_16_FE">
+        <strong>PGTI Frontend</strong>
       </a>
       <br />
-      <sub>React · Vite · TMDB API · Vercel</sub>
+      <sub>게임 취향 설문, 추천 리스트, 장르별 매칭 화면을 함께 만든 팀 프로젝트입니다.</sub>
     </td>
-    <td width="50%">
-      <a href="https://github.com/hj-devlog/oz_union_16_FE">
-        <strong>oz_union_16_FE</strong>
+    <td width="33%">
+      <sub>Remaster</sub>
+      <br />
+      <a href="https://github.com/hj-devlog/oz_16_react_mini">
+        <strong>OZ Movie Remaster</strong>
       </a>
       <br />
-      <sub>React · TypeScript · Zustand · MSW</sub>
+      <sub>TMDB API 기반 영화 검색 프로젝트를 다시 정리하고 Vercel로 배포했습니다.</sub>
+    </td>
+    <td width="33%">
+      <sub>Practice</sub>
+      <br />
+      <a href="https://github.com/hj-devlog/react-practice">
+        <strong>React Practice</strong>
+      </a>
+      <br />
+      <sub>React와 Vite 기반 화면 구현을 연습한 개인 실습 레포지토리입니다.</sub>
     </td>
   </tr>
 </table>
